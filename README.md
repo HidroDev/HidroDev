@@ -44,25 +44,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🚀 Featured Projects
 
-Below are some of my notable projects. Feel free to explore them!
-
-### 1. **Project Name**
-- **Description**: A brief description of the project.
-- **Tech Stack**: [List of technologies used]
-- **Live Demo**: [Link to live demo (if available)](https://example.com)
-- **Repository**: [Link to GitHub repo](https://github.com/yourusername/project-name)
-
-### 2. **Project Name**
-- **Description**: Another project description.
-- **Tech Stack**: [List of technologies used]
-- **Live Demo**: [Link to live demo (if available)](https://example.com)
-- **Repository**: [Link to GitHub repo](https://github.com/yourusername/project-name)
-
-### 3. **Project Name**
-- **Description**: Yet another project description.
-- **Tech Stack**: [List of technologies used]
-- **Live Demo**: [Link to live demo (if available)](https://example.com)
-- **Repository**: [Link to GitHub repo](https://github.com/yourusername/project-name)
+For a detailed introduction to the project, please check out the [Introduction](INTRO.md).
 
 ---
 
@@ -83,12 +65,3 @@ Feel free to connect with me via any of the following platforms:
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ---
-
-## ⭐ Fun Facts About Me
-
-- I love [ Math, Soccer, Watching Movies,Studying Romans And Learning New Things :) ].
-/*- Fun fact: [something interesting about yourself]. */
-
----
-
-Thank you for visiting my GitHub profile! 😊 If you find anything interesting or have any questions, don’t hesitate to reach out. Let’s collaborate and build something amazing together!
