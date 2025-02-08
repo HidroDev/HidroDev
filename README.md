@@ -1,15 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!
+### 👋 Hi, I’m Hidro!
 
-
-<p align="center">
-  <img src="https://github.com/Hidrodev.png" alt="Profile Picture" width="250" height="250" />
-</p>
-
----
-
-## 👋 Hi, I’m [Hidro]!
-
-I am a [Programmer] with a passion for [Sharing My Project]. I enjoy creating solutions that make a difference.
+I am a Programmer with a passion for Sharing My Project. I enjoy creating solutions that make a difference.
 
 - 📍 Based in: Isfahan-Iran
 - 📚 Currently learning: Computer Engineering
