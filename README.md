@@ -1,7 +1,8 @@
 # 🌟 Welcome to My GitHub Profile!
 
+
 <p align="center">
-  <img src="https://example.com/your-profile-picture.jpg" alt="Profile Picture" width="150" height="150" />
+  <img src="https://github.com/Hidrodev.png" alt="Profile Picture" width="250" height="250" />
 </p>
 
 ---
@@ -10,10 +11,10 @@
 
 I am a [Programmer] with a passion for [Sharing My Project]. I enjoy creating solutions that make a difference.
 
-- 📍 Based in: [Isfahan-Iran]
-- 📚 Currently learning: [Computer ٍngineering]
-- 💼 Profession: [Coding... :) ]
-- 🎯 Goals: [Professional Computer Engineer]
+- 📍 Based in: Isfahan-Iran
+- 📚 Currently learning: Computer Engineering
+- 💼 Profession: Coding... :) 
+- 🎯 Goals: Professional Computer Engineer
 
 ---
 
